@@ -5,7 +5,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Set your OpenAI API key here
-api_key = "sk-proj-9GLrHcFBfLEiPp7Sn7tFT3BlbkFJHAQv9GtkcblnSBBNnr6F"
+api_key = hello
 
 # Initialize the OpenAI client with the API key
 openai.api_key = api_key

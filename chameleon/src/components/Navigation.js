@@ -1,8 +1,7 @@
 // src/components/Navigation.js
+import './Navigation.css'; // Import the new CSS file
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Navigation.css';
-
 
 function Navigation() {
   return (

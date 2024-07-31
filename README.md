@@ -31,12 +31,42 @@ Run `assistant.py`
 
 **Final Answer:** The semantic HTML elements for the provided code could be:
 ```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-  <body>
-    <h1>My First Heading</h1>
-      <p>My first paragraph.</p>
-  </body>
+<head>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "headline": "My First Heading",
+    "description": "My first paragraph.",
+    "author": {
+      "@type": "Person",
+      "name": "Your Name"
+    }
+  }
+  </script>
+  <title>My First Web Page</title>
+</head>
+<body>
+
+<header>
+  <h1>My First Heading</h1>
+</header>
+
+<main>
+  <article>
+    <p>My first paragraph.</p>
+  </article>
+</main>
+
+<footer>
+  <p>&copy; 2024 Your Name. All rights reserved.</p>
+</footer>
+
+</body>
 </html>
+
 ```
 
 ![image](https://github.com/user-attachments/assets/d337d227-9701-49ec-abec-26267398d27a)

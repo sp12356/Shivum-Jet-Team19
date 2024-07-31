@@ -20,7 +20,7 @@ def ari_tool(question: str) -> list:
 
 groq_llm = ChatGroq(
     model="mixtral-8x7b-32768",
-    api_key="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"
+    api_key="..."
 )
 
 backstory_data = 'This agent is designed to develop and improve code by implementing new features, optimizing performance, and ensuring functional correctness.'

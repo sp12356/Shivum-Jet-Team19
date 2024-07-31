@@ -8,7 +8,7 @@ CodeGen w/ LLM Agents + RAG using Groq & OpenAI:
 * Semantic HTML
 * Microdata Schema Markup
 * ARIA Text
-
+* Improved Accuracy using Documentation RAG
 
 ## Installation
 

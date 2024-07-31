@@ -30,22 +30,10 @@ Run `assistant.py`
 **Action:** None Action Input: None
 
 **Final Answer:** The semantic HTML elements for the provided code could be:
-```<!DOCTYPE html>
+```
 <!DOCTYPE html>
 <html>
 <head>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "headline": "My First Heading",
-    "description": "My first paragraph.",
-    "author": {
-      "@type": "Person",
-      "name": "Your Name"
-    }
-  }
-  </script>
   <title>My First Web Page</title>
 </head>
 <body>

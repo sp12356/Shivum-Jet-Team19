@@ -4,7 +4,7 @@ LLM's aren't the most accurate when it comes to retrieving structured data from 
 
 ## Features
 
-CodeGen w/ LLM Agents using Groq & OpenAI:
+CodeGen w/ LLM Agents + RAG using Groq & OpenAI:
 * Semantic HTML
 * Microdata Schema Markup
 * ARIA Text

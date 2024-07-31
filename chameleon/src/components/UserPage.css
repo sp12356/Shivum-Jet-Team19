@@ -1,0 +1,39 @@
+.split-screen {
+  display: flex;
+  height: 100vh; /* Full viewport height */
+}
+
+.left-panel, .right-panel {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.left-panel {
+  background-color: #282c34;
+}
+
+.right-panel {
+  background-color: #282c34;
+}
+
+.input, .output {
+  color: #61dafb;
+  font-size: 1.1em;
+  padding-bottom: 10px; /* Reduced space to align better */
+  margin: 0; /* Remove default margin */
+  font-weight: 100;
+}
+
+.code-input, .code-output {
+  width: 100%;
+  height: calc(100vh - 80px); /* Adjust as needed for proper height */
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  resize: none; /* Prevent resizing of textarea */
+  overflow: auto; /* Handle overflow of content */
+}
+
+.code-output {
+  white-space: pre-wrap; /* Preserve whitespace and line breaks */
+}

@@ -38,3 +38,6 @@ Run `assistant.py`
   </body>
 </html>
 ```
+
+![image](https://github.com/user-attachments/assets/d337d227-9701-49ec-abec-26267398d27a)
+

@@ -25,7 +25,7 @@
   font-weight: 100;
 }
 
-.code-input, .code-output {
+.code-input, .code-output, .code-input2 {
   width: 100%;
   height: calc(100vh - 80px); /* Adjust as needed for proper height */
   border: 1px solid #ccc;

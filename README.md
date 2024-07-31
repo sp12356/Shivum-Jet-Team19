@@ -1,5 +1,5 @@
-## Chameleon - boost retrieval accuracy on structured data
-
+## Chameleon - Boost Retrieval Accuracy on Websites
+![image](https://github.com/user-attachments/assets/d337d227-9701-49ec-abec-26267398d27a)
 LLM's aren't the most accurate when it comes to retrieving structured data from webpages. We're improving government websites so they are.
 
 ## Features
@@ -57,5 +57,5 @@ Run `assistant.py`
 
 ```
 
-![image](https://github.com/user-attachments/assets/d337d227-9701-49ec-abec-26267398d27a)
+
 
